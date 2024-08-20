@@ -1,6 +1,6 @@
 // Je commence par stocker ma clé d'API et ma balise img pour mes icones météo
 
-const APIKEY = '6fe86a5d-8c2e-40b9-891a-ca5685c77d9b';
+
 const iconsTemp = document.querySelector(".icon");
 const loader = document.querySelector(".container-loader")
 const errorInformation = document.querySelector(".error-information")
